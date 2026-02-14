@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Chen"
+    given-names: "Jiashun"
+title: "AIC-2025 Fine-Grained Image Recognition Challenge Solution"
+version: 1.0.0
+date-released: 2026-02-14
+url: "https://github.com/chenjiashun123456/AIC-2025-FineGrained-Recognition"
